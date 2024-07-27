@@ -1,0 +1,41 @@
+
+        
+       
+body{
+    background-color: #89427b;
+    display: flex;
+    justify-content: center;
+
+}
+.container{
+    max-width: 40%;
+}
+.head-sec{
+
+    padding:10px;
+    text-align: right;
+}
+.head-sec img {
+  max-height: 30px;
+}
+.pg-grey{
+background-color: #956331;            
+}
+.container-lvl-2{
+    padding: 20px;
+    margin-top: 150px;
+}
+.container-lvl-2 .main-img{
+    border-radius: 10%;
+    display: block;
+    margin-top: -150px;
+   
+}
+
+form{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 400px;
+}
